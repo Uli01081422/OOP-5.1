@@ -1,0 +1,8 @@
+﻿  Cursor.cpp
+C:\Users\Admin\Desktop\ООП lab\OOP 5.1A\OOP 5.1A\OOP 5.1A\Cursor.h(27,87): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Admin\Desktop\ООП lab\OOP 5.1A\OOP 5.1A\OOP 5.1A\Cursor.cpp(59,80): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Exception.cpp
+  Source.cpp
+C:\Users\Admin\Desktop\ООП lab\OOP 5.1A\OOP 5.1A\OOP 5.1A\Cursor.h(27,87): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  OOP 5.1A.vcxproj -> C:\Users\Admin\Desktop\ООП lab\OOP 5.1A\OOP 5.1A\Debug\OOP 5.1A.exe

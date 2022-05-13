@@ -1,0 +1,7 @@
+﻿  FuzzyNumber_Public.cpp
+C:\Users\Admin\Desktop\ООП lab\OOP 5.1C\OOP 5.1C\OOP 5.1C\FuzzyNumber.h(32,97): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Admin\Desktop\ООП lab\OOP 5.1C\OOP 5.1C\OOP 5.1C\FuzzyNumber_Public.cpp(37,120): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Source.cpp
+C:\Users\Admin\Desktop\ООП lab\OOP 5.1C\OOP 5.1C\OOP 5.1C\FuzzyNumber.h(32,97): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  OOP 5.1C.vcxproj -> C:\Users\Admin\Desktop\ООП lab\OOP 5.1C\OOP 5.1C\Debug\OOP 5.1C.exe
